@@ -1,0 +1,23 @@
+body{
+    font-family:  'Source sans pro', sans-serif;
+}
+
+h1,h2, h3, h4, h5, h6{
+    font-family: 'Fjalla one', sans-serif;
+    font-weight: normal;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.5;
+    letter-spacing: -2px;
+}
+.hero{
+    height: 300px;
+}
+.project-details{
+    width: 500px;
+}
+
+.project-imgContainer{
+    width: 500px;
+}
